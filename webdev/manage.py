@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+pikabu
+"""
 from django.core.management import execute_manager
 import imp
 try:
